@@ -1,0 +1,8 @@
+{
+  "name": "variaveis",
+  "version": "1.0.0",
+  "description": "Variaveis de Programacao",
+  "main": "index.js",
+  "author": "Jean Paulo",
+  "license": "MIT"
+}
